@@ -1,0 +1,16 @@
+ENEMY_TEXTURE resource//enemy.bmp 255 255 255
+PLAYER_TEXTURE resource//player.bmp 255 255 255
+MAZE_TEXTURE resource//mazeblock.bmp 255 255 255
+DOOR_TEXTURE resource//door.bmp 255 255 255
+PURPLE_GEM_TEXTURE resource//gem_purple.bmp 255 255 255
+GREEN_GEM_TEXTURE resource//gem_green.bmp 255 255 255
+ORANGE_GEM_TEXTURE resource//gem_orange.bmp 255 255 255
+PLAYER_ALT_TEXTURE resource//player_alt.bmp 255 255 255
+CLEAR_GEM_TEXTURE resource//gem_clear.bmp 255 255 255
+MSG_WIN_TEXTURE resource//msg_win.bmp 255 0 255
+MSG_LOSE_TEXTURE resource//msg_lose.bmp 255 0 255
+MSG_GAME_TEXTURE resource//msg_game.bmp 255 0 255
+PLAYER_GHOST_TEXTURE resource//player_ghost.bmp 255 0 255
+CUP_TEXTURE resource//player_cup.bmp 255 0 255
+SPLASH_SCREEN_TEXTURE resource//splash.bmp 255 0 255
+BG_TEXTURE resource//bg.bmp 255 0 255
